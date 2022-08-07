@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!  You are lucky to have Sneha</h2>
+<h2>Hello World!  You are lucky to have Ameersha</h2>
 </body>
 </html>
